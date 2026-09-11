@@ -1,0 +1,7 @@
+Jan 10 14:01:00 srv sshd: Accepted password for user1 from 192.168.1.50
+Jan 10 14:02:15 srv sshd: Failed password for root from 203.0.113.42
+Jan 10 14:02:17 srv sshd: Failed password for root from 203.0.113.42
+Jan 10 14:02:19 srv sshd: Failed password for admin from 203.0.113.42
+Jan 10 14:03:00 srv sudo: user1 : command not allowed ; TTY=pts/0 ; PWD=/home/user1 ; USER=root ; COMMAND=/bin/su
+Jan 10 14:05:22 srv sshd: Failed password for root from 198.51.100.7
+Jan 10 14:05:25 srv sshd: Failed password for root from 203.0.113.42
